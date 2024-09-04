@@ -37,6 +37,7 @@ git clone <repo-url>
 
 Perception package is needed to be installed to get the ground truth data from the simulation (RGB + Semantic Segmentation + Instance Segementation).
 1. [Perception Package](https://github.com/Unity-Technologies/com.unity.perception)
+2. Check the requirements for HDRP (High Definition Rendering Pipeline) ![HDRP Requirements](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@17.0/manual/System-Requirements.html)
 
 ## Getting Started
 
