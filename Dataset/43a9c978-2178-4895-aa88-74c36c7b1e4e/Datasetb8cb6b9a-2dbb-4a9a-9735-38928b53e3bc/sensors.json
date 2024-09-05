@@ -1,0 +1,10 @@
+{
+  "version": "0.0.2",
+  "sensors": [
+    {
+      "id": "camera",
+      "modality": "camera",
+      "description": "Used to extract panoptic segmentation"
+    }
+  ]
+}

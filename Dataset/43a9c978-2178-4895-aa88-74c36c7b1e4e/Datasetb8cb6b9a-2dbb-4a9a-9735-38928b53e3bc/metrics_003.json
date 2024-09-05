@@ -1,0 +1,1503 @@
+{
+  "version": "0.0.2",
+  "metrics": [
+    {
+      "capture_id": "dbfe61cb-5261-4e9a-9241-ba5a512b6ffb",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 453,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "9d476d91-5868-4914-9351-6815421ff102",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 454,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "5675e2da-e83b-4fea-81cd-5aa147b60948",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 455,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "d06cee09-346c-429a-9e9d-f7c2c2ad4327",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 456,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "ce78bdd5-19bf-49c8-8c42-211822fc5608",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 457,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "c300621f-606b-414d-8b23-435fe71ea106",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 458,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "4f271872-645d-45c5-8c57-ec3f0f83c1f2",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 459,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "147406ea-b03b-4338-a31b-c4dc86d055e7",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 460,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "4c8583d8-4fd5-441f-b025-ce5fc9592e56",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 461,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "30bc7fd3-77c7-420c-ac76-0289e2d5ebbb",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 462,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "462f6ada-f67f-46fe-80c9-ace1e2b9356c",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 463,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "5b448cb4-3ba0-48ff-953a-ed4e01819393",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 464,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "05f1fa00-cd0c-4861-abe5-4f6c9da5a3c4",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 465,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "960fdcfb-ed28-4b32-a795-a00520c8705d",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 466,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "361e802c-e0ed-44be-9348-9a4db5586139",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 467,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "758f6e22-c634-47ee-bf16-86de9d7088ed",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 468,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "ea269427-9cae-4655-be84-cf95f4f7e8ee",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 469,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "4ccabcca-6bf3-4a70-a6c4-a896c0f82ea1",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 470,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "a7d49a83-1f98-4452-b67f-8e959134046b",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 471,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "1fde1e68-e56f-4ff4-bdf9-355a9d6e2891",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 472,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "7479511a-4e8e-451d-b4c5-6374b31cb096",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 473,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "5ec00a65-ba31-4d4e-ad3f-4b53c5edce4a",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 474,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "e007714d-b2ec-4a5e-93ba-40a13613544a",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 475,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "21f4a265-8538-4680-8cd9-1578f6e6a00a",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 476,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "7fd011e1-4e2e-4b12-b194-07ca3fd3f623",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 477,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "e1916951-f4c3-4e26-bbdc-33452c5fd069",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 478,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "606c31fd-ec24-4717-8f7d-bb2656c6d268",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 479,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "a40b442a-2017-4754-a2b5-2493cc40c43d",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 480,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "8e7493bc-9cb9-4564-ae31-b22b546be64c",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 481,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "5c9d6829-c8e4-4e15-af85-88d877096453",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 482,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "260f80ce-8c32-4d3d-a8ac-a42151482ee8",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 483,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "26c0823b-70f0-437a-84d9-d9991efb1aca",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 484,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "0c63d3fc-f3b9-4173-a392-8434c0fecd99",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 485,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "a0f4fd61-01f2-4675-9cea-61288fc6474d",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 486,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "c38d649a-2465-4d77-bd4f-d819a86ffa6d",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 487,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "f663234c-a920-4463-90e9-b2dedd8de342",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 488,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "bee921b7-e29a-40e1-bb32-7d74593576bd",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 489,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "13b95d13-9bbd-4b2c-b8f6-adc325369837",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 490,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "5dfc26d3-fe9f-4c87-ba1c-a96bc804c1e8",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 491,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "33ee01e5-d736-40fc-a36a-5b890be47712",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 492,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "aaa8b88a-caf2-438f-929c-69849731db99",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 493,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "1aa1abbd-e6fe-4fa1-b994-a9e5c2fcb20b",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 494,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "c4867fce-15bc-4fc5-9970-182e0cd509c3",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 495,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "3bccc304-5d91-4295-91d3-0cc8add8691c",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 496,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "a24886f1-d883-4407-a5f5-c3389702988c",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 497,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "39500358-020e-489f-a4f9-860df63d3bd3",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 498,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "99e76399-7a9d-4506-98c4-22d61cafb3d8",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 499,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "c6d32746-53e5-4d9e-a2a2-804502f41b10",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 500,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "4babc8bb-da22-4a6c-85a3-60c597a10153",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 501,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "b315000f-9426-49f6-a60d-51b8942a8b37",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 502,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "579f50a3-2aeb-4eca-90ab-36419e28d63e",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 503,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "e96a8231-5d7e-4985-b939-54963ad1fd9e",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 504,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "ba688ed0-2eeb-4ec0-ba49-4b3b46ee55a7",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 505,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "60ff52dc-ece2-477f-b8c3-c3e188aa05a4",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 506,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "c7c6dabf-a48b-4056-8a90-fe4db9fb36e2",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 507,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "17299242-c5a5-4743-b772-d4a30dcbe5c4",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 508,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "3d3f05ad-1239-4632-a3c1-68ab50386268",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 509,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "3edde104-0bd4-4365-9fc0-669590c5db12",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 510,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "ca838cd9-7496-4b0c-b916-bbbf1fda6328",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 511,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "5ba5f168-3e37-4a50-8847-f126d5b5234d",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 512,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "9a60ca8f-93d6-4864-969e-984c57ca692e",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 513,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "900e27a2-f6f8-4b9d-95e2-765f832e5fb5",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 514,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "4de5916d-8619-46b9-b465-f1f24d96a591",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 515,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "b742debb-361e-4570-8264-808356da7e0a",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 516,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "94b53152-d0eb-410c-9e4c-9a365451c5d6",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 517,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "917b9e71-f69f-4775-847a-8f512d96c8ae",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 518,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "5fb5fe8c-2ec2-4955-9b18-4a758b467cc8",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 519,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "5cf658af-ad76-4782-82cc-57ea27922162",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 520,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "74aa44ac-f57c-45f5-923e-bf878d5e8439",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 521,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "b91e242e-d3a1-44b7-af21-e088d76f5003",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 522,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "7ecd8587-cd36-4f6b-aa4d-b1acc6a6fdff",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 523,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "5718883a-b17e-4541-8c4b-4f781aa71a69",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 524,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "3a1d4133-f7c4-4d8e-be19-9b53cafef22b",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 525,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "5bde5ce5-52c1-499c-9c0b-520a1576f6bc",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 526,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "643758a8-3888-426a-920f-73b5a70380da",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 527,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "ea2cf529-23f0-44cb-ac9d-00bc67282a45",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 528,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "a9e992b2-cb55-4126-a422-ee1a333a3e82",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 529,
+      "metric_definition": "RenderedObjectInfo",
+      "values": []
+    },
+    {
+      "capture_id": "9e51dc00-b48d-449c-9ff1-5cb9e4fe2c4a",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 530,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "3907c71e-fcea-4ca3-9683-fa5284f6aaf2",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 531,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "0932d191-fc0e-4c27-a3a5-acbd0d89853f",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 532,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "0ef6455e-4a70-4866-aa27-07679c93f363",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 533,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "55f9cde3-be5a-4057-a0f9-de7cf889d4ca",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 534,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "90b62faf-84c6-4956-9ef8-c09f0d14f876",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 535,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "0d9b1b6f-7256-454f-aaf9-301062382a08",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 536,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "0c3d74ea-3c48-413c-af9a-49ccab40160a",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 537,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "12cfc3a0-f3d6-4997-8b7c-0e819104bb00",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 538,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "7e824970-1308-49a4-be36-118f24fe5abb",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 539,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "1b2b8736-4e12-42f4-9a54-96d398e8974b",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 540,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "80e55eaf-e47d-46ea-9349-ec806f14110b",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 541,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "ad637979-dfb0-4ab7-bd94-3c6add03dfe1",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 542,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "c394c2ac-2bfd-4536-868c-66c2de32e1d1",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 543,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "44d0f3af-5f74-4511-b807-51f196ffb782",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 544,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "62d230cb-2a4f-4f64-aa53-8938a58cd3f1",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 545,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "74654735-b383-4142-83fd-d6584f515c53",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 546,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "b4156ff7-2e66-4731-b245-c4d25ba8f216",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 547,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "458def22-f049-483d-b0ee-e1e133d18d82",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 548,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "39a214ed-52c5-43ac-bb3a-e7a49b5307a4",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 549,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "a21e5203-ab29-473b-a4a2-42ce6391fb4a",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 550,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "a234371d-e140-4365-8349-624005401c6d",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 551,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "f56a936d-cc16-4457-9cee-d8ad014dd402",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 552,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "1afaf219-d404-44b7-a823-20e16f3e1ec8",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 553,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "46c88a6e-342e-44e8-b88c-a5858ab8cfb6",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 554,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "4c6ac5f1-a21b-4628-abad-4b3d316ee63e",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 555,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "14d3281d-85ab-447b-a855-5ccc40e8618c",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 556,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "capture_id": "9e47999d-861b-4340-a575-0af1017e9307",
+      "annotation_id": null,
+      "sequence_id": "f05cd9b5-ad10-4a3a-8cf9-c7df8a358c83",
+      "step": 557,
+      "metric_definition": "RenderedObjectInfo",
+      "values": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  ]
+}
