@@ -1,8 +1,11 @@
-# aqua-sim-xai:
+# aqua-sim-xai
 
 aqua-sim-xai is an Aquatic Simulator for Explainable AI (XAI) applications in aquatic environments. 
 
 This project is developed from: [UnityUWSIM by ahmedharbii](https://github.com/ahmedharbii/UnityUWSIM)
+
+## Dataset:
+The generated synthetic dataset is available at [https://zenodo.org/records/13734306](https://zenodo.org/records/13734306)
 
 ## Overview:
 aqua-sim-xai is a simulation project designed for simulating lake Maschsee in Hannover, Germany. This project is for research purposes under HAI-X project at DFKI - MAP.
