@@ -126,9 +126,7 @@ Please cite the paper from here:
 
 ## Video:
 
-<iframe width="560" height="315" src="https://youtu.be/jrJs4kzOeGI?si=r7nvwKLTuCUatLyh" frameborder="0" allowfullscreen></iframe>
-
-
+[![Alt text](https://img.youtube.com/vi/jrJs4kzOeGI/0.jpg)](https://www.youtube.com/watch?v=jrJs4kzOeGI)
 
 
 ## Extra:
