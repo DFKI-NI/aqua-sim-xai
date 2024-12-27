@@ -12,7 +12,7 @@ aqua-sim-xai is a simulation project designed for simulating lake Maschsee in Ha
 The simulator is used for generating textual explanations for boat skippers in aquatic environments.
 
 ## Features
-- **Otter USV Simulation**: Simulates the WAM USV enabling realistic control and behavior testing.
+- **WAM USV Simulation**: Simulates the WAM USV enabling realistic control and behavior testing.
 - **Dynamic Weather Control**: Allows for weather condition adjustments, including day/night cycles and fog.
 - **Autonomous NPC Boats**: Includes non-player boats with and without collision avoidance for testing interaction scenarios.
 - **Explainable UI (XUI)**: Provides tools for collecting and annotating user actions with explanations.
@@ -111,7 +111,23 @@ The project is ready to be integrated with ROS2, the following packages are need
 ## Related Publication
 This project is based on research described in the paper, "Interactive Simulator Framework for XAI Applications in Aquatic Environments", which has been accepted for publication in  
 [International Conference on Artificial Intelligence CAMBRIDGE, ENGLAND 17-19 DECEMBER 2024](http://www.bcs-sgai.org/ai2024/).
-The full reference and link will be added once the paper is published.
+
+Please cite the paper from here:
+
+@inproceedings{elsayed2024interactive, <br>
+  title={Interactive Simulator Framework for XAI Applications in Aquatic Environments}, <br>
+  author={Elsayed, Ahmed H and El-Mihoub, Tarek A and Manss, Christoph and Miedtank, Andre and Nolle, Lars and Stahl, Frederic}, <br>
+  booktitle={International Conference on Innovative Techniques and Applications of Artificial Intelligence}, <br>
+  pages={144--157}, <br>
+  year={2024}, <br>
+  organization={Springer} <br>
+}
+
+
+## Video:
+
+<iframe width="560" height="315" src="https://youtu.be/jrJs4kzOeGI?si=r7nvwKLTuCUatLyh" frameborder="0" allowfullscreen></iframe>
+
 
 
 

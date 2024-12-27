@@ -14,7 +14,7 @@ public class ImuSubscriber : MonoBehaviour
 {
 
     ROSConnection ros;
-    public string imuTopic = "/otter/imu/data";
+    public string imuTopic = "/vehicle/imu/data";
 
     public float speed = 10.0f;
     private Rigidbody _rb;

@@ -4,7 +4,7 @@ using Unity.Robotics.ROSTCPConnector;
 
 public class ROSMainMenuSettings : MonoBehaviour
 {
-    private string ROSIP = "192.168.178.25";
+    private string ROSIP = "192.168.1.1";
     private string ROSPort = "10000";
 
     public ReadInputIP m_ReadInput;

@@ -1,7 +1,6 @@
 using UnityEngine;
 using UnityEngine.AI;
 
-// TODO: This is currently work for the only active boat (berky or otter) in the scene.
 public class ControlModes : MonoBehaviour
 {
     private GameObject[] robotBoats;
